@@ -1,6 +1,6 @@
 # Food-verse
 
-## Online Food Recipes Guide
+### Online Food Recipes Guide
 
 ## Home
 ![Home](https://raw.githubusercontent.com/RealSATVIS/Foodverse/refs/heads/master/shots/Home.JPG)
